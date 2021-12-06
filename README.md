@@ -37,6 +37,10 @@ and save the file under `pretrained_models/final_roberta.tar.gz`
 download the [model](https://drive.google.com/file/d/1pgL76abYzxPhN-RvugEcp0TKa-Obtl8p/view?usp=sharing)
 and save the file under `pretrained_models/final_glove.tar.gz`
 
+#### Load GloVe Vectors
+
+Load the zip compressed vectors from https://huggingface.co/stanfordnlp/glove/resolve/main/glove.840B.300d.zip and extract the vector
+file to the path configured in the corresponding training config file.
 
 ## Hyperparameter Optimization
 
